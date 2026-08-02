@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01. Compare Matrices/01. Compare Matrices.vcxproj" Id="043cd199-9828-445b-9a2a-fb67c8f9c671" />
+  <Project Path="01. Sum Matrix Columns/01. Sum Matrix Columns.vcxproj" Id="cfaf2536-b540-400d-b5ab-3bfbb851df55" />
+  <Project Path="02. Positions Of/02. Positions Of.vcxproj" Id="09d78bb0-a808-4aaf-8d37-814ff0d5c23c" />
+  <Project Path="02. Primary Diagonal/02. Primary Diagonal.vcxproj" Id="4d429947-a2ed-4e21-97e7-39bfe2508edb" />
+  <Project Path="03. Squares in Matrix/03. Squares in Matrix.vcxproj" Id="7d96302a-1ad4-40c3-aa17-6c5783d6aed6" />
+  <Project Path="03. Symbol in Matrix/03. Symbol in Matrix.vcxproj" Id="f5cd1195-0146-4015-8200-48997c46528d" />
+  <Project Path="04. Diagonal Difference/04. Diagonal Difference.vcxproj" Id="667657e6-2651-4cbe-a2bf-b5e9f4821fa6" />
+  <Project Path="04. Snake Moves/04. Snake Moves.vcxproj" Id="1883d760-576c-4061-a753-99d8f3ffbd09" />
+  <Project Path="05. Maximal Sum/05. Maximal Sum.vcxproj" Id="63d457f5-595e-4cac-827e-7e49688ea378" />
+  <Project Path="06. Reverse Matrix Diagonals/06. Reverse Matrix Diagonals.vcxproj" Id="ada2d28f-4ea3-4a4c-b55c-9840ab4e31d0" />
+  <Project Path="07. Fill the Matrix/07. Fill the Matrix.vcxproj" Id="4a69d54d-ccbc-49cb-9469-0adf6bbcef11" />
+</Solution>
